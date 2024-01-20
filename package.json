@@ -1,0 +1,33 @@
+{
+  "name": "curso_nodo",
+  "version": "1.0.0",
+  "description": "Aprendiendo NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camembreno/cursonode.git"
+  },
+  "keywords": [
+    "node",
+    "dev"
+  ],
+  "author": "midudev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camembreno/cursonode/issues"
+  },
+  "homepage": "https://github.com/camembreno/cursonode#readme",
+  "dependencies": {
+    "express": "4.18.2",
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
